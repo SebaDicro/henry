@@ -1,0 +1,34 @@
+
+ body {
+    background-color: cornsilk;
+    text-align: center;
+}
+h1 {
+     color: green;
+}
+a {
+    font-size: 25px;
+    padding: 15px;
+    
+    
+}
+img {
+    width: 400px;
+}
+.divClass {
+    margin: 30px;
+}
+#thirdDiv {
+    height: 800px;
+    width: 500px;
+    display: inline-block;
+    background-color: rgb(188, 143, 143);
+    font-size: 20px;
+    color: white;
+    padding: 50px;
+    border: 2px double black;
+}
+#spanId {
+    font-size: 25px;
+    margin: 50px;
+}
