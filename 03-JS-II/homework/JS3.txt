@@ -1,0 +1,7 @@
+For: es una palabra clave que me permite buscar algo en un grupo ordenado de valores. 1°, armo una cajita vacía; 2°, le digo a la compu hasta dónde o qué voy a buscar (condición);
+	3°, le pido que cuente los valores puestos en la cajita.
+
+&&, ||, ! : Son operadores que relacionan dos o más valores entre sí y dan un resultado de acuerdo a si son "verdaderos" o "falsos".
+		Para && (y) todos los valores que relaciona deben ser verdaderos para que el resultado sea verdadero.
+		Para || ("o") alcanza con que uno de los valores sea verdadero para que el resultado sea verdadero.
+		Y ! ("no") transforma un valor verdadero en falso y viceversa.

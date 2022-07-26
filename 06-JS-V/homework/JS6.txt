@@ -1,0 +1,2 @@
+Callbacks: son funciones que se pasan como argumentos de otras funciones. Por ej si quiero aplicar una función a todos los elementos de un array
+		la puedo pasar como argumento de un método que cumpla esa tarea.

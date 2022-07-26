@@ -1,0 +1,6 @@
+Prototype: son las caracteristicas que heredan los objetos del lenguaje de Javascript. Por ej: si creo un nuevo Array, va a heredar los métodos
+		propios del objeto Array que provee el lenguaje.
+
+Constructor: Es el molde diagramado en una clase que van a recibir los objetos instanciados en la misma.
+
+ 

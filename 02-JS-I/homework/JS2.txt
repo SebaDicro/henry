@@ -1,0 +1,6 @@
+Variable: Una caja con nombre donde puedo poner un valor (una palabra, un número, algo verdadero, un "grupo de cajas ordenadas", etc).
+Strings: Un tipo de dato que consiste en "texto" (grupo de caracteres: letras, numeros) y se escribe entre comillas.
+Funciones: Son declaraciones donde le pido a la computadora que realice una tarea particular. Le doy algunas "pistas" (argumentos) y la compu me devuelve un resultado (return).
+Declaraciones 'if': Son condiciones para que la compu haga determinada cosa u otra de acuerdo a si se cumplen o no.
+Valores booleanos: Un tipo de dato que puede ser "verdadero" o "falso". Por ej: "2 + 2 = 5" es un valor falso.
+
